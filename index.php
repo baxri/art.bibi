@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <title>BIBI.ge - Web developer</title>
+    <title>ART.BIBI.ge - Designer</title>
 
     <!-- CSS  -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -12,14 +12,14 @@
     <link href="public/css/libs/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link href="public/css/main.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
-<body>
+<body >
 <nav class="white" role="navigation">
     <div class="nav-wrapper container">
         <a id="logo-container" href="#" class="brand-logo">
             <img src="html.jpg" height="50">
         </a>
         <ul class="right hide-on-med-and-down">
-            <li><a href="javascrit:void(0)">Mob: +995 598 60 20 84</a></li>
+            <li><a href="javascrit:void(0)">Mob: +995 555 73 78 00</a></li>
             <li><a href="javascrit:void(0)">Email: giorgi.bibiashvili89@gmail.com</a></li>
         </ul>
 
@@ -41,12 +41,11 @@
 
             <div class="row center" style="margin-top: -23px;">
                 <h5 class="header col s12 light">
-                    Software Developer and Software Architect
+                    Interior/Exterior Designer
                 </h5>
             </div>
             <div class="row center">
                 <a href="https://www.facebook.com/george.bibilashvili" target="_blank" id="download-button" class="btn-large waves-effect waves-light  light-blue darken-4"><span class="fa fa-facebook fa-lg"></span></a>
-                <a href="https://github.com/baxri" target="_blank" id="download-button" class="btn-large waves-effect waves-light grey darken-2"><span class="fa fa-github fa-lg"></span></a>
                 <a href="https://twitter.com/WbibiG" target="_blank" id="download-button" class="btn-large waves-effect waves-light light-blue accent-3"><span class="fa fa-twitter fa-lg"></span></a>
                 <a href="https://www.linkedin.com/in/giorgi-bibilashvili-1b620761/" target="_blank" id="download-button" class="btn-large waves-effect waves-light  blue-grey darken-3"><span class="fa fa-linkedin fa-lg"></span></a>
             </div>
@@ -130,7 +129,7 @@
 </div>
 
 <div class="container">
-    <div class="section">
+    <div class="section ">
 
         <div class="row">
             <div class="col s12 center">
@@ -164,7 +163,7 @@
     <div class="parallax"><img src="background3.jpg" alt="Unsplashed background img 3"></div>
 </div>
 
-<footer class="page-footer teal">
+<footer class="page-footer  grey darken-4">
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
